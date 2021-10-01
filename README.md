@@ -1,2 +1,2 @@
 # aula28set
-aula dia 28 de setembro
+aula dia 1 de outubro de 2021
